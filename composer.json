@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "^1.17",
+        "ruflin/elastica": "^3.0"
+    }
+}
